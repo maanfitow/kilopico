@@ -17,6 +17,10 @@
       "switchToEs": "Switch to Spanish",
       "switchToEn": "Switch to English"
     },
+    "theme": {
+      "switchToLight": "Switch to light theme",
+      "switchToDark": "Switch to dark theme"
+    },
     "calculator": {
       "title": "Unit Converter",
       "quantityLabel": "Quantity",
@@ -193,6 +197,10 @@
       "en": "EN",
       "switchToEs": "Cambiar a español",
       "switchToEn": "Cambiar a inglés"
+    },
+    "theme": {
+      "switchToLight": "Cambiar a tema claro",
+      "switchToDark": "Cambiar a tema oscuro"
     },
     "calculator": {
       "title": "Conversor de Unidades",

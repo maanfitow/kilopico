@@ -2,6 +2,7 @@ import { NavLink } from 'react-router-dom';
 import { PROJECT_NAME } from '../config.js';
 import { useI18n } from '../i18n/I18nContext.jsx';
 import LanguageSwitcher from './LanguageSwitcher.jsx';
+import ThemeSwitcher from './ThemeSwitcher.jsx';
 
 export default function Header() {
   const { t } = useI18n();
@@ -59,7 +60,10 @@ export default function Header() {
           </NavLink>
         </nav>
 
-        <LanguageSwitcher />
+        <div className="header-actions">
+          <ThemeSwitcher />
+          <LanguageSwitcher />
+        </div>
       </div>
     </header>
   );
