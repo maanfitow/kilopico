@@ -1,0 +1,60 @@
+{
+  "bipm-si-brochure-9": {
+    "type": "document",
+    "title": "The International System of Units (SI), 9th edition",
+    "year": 2019,
+    "edition": "9th edition (updated 2022, Resolution 3 of the 27th CGPM)",
+    "publisher": "Bureau International des Poids et Mesures (BIPM)",
+    "url": "https://www.bipm.org/en/publications/si-brochure",
+    "verified": false,
+    "notes": "Defines SI base units, the 24 SI prefixes (including ronna, quetta, ronto, and quecto added in 2022), and non-SI units accepted for use with the SI (litre, tonne, hour, minute, day, electronvolt)."
+  },
+  "nist-sp811": {
+    "type": "document",
+    "title": "Guide for the Use of the International System of Units (SI), NIST Special Publication 811",
+    "authors": ["Ambler Thompson", "Barry N. Taylor"],
+    "year": 2008,
+    "edition": "2008 edition",
+    "publisher": "National Institute of Standards and Technology",
+    "url": "https://www.nist.gov/pml/special-publication-811",
+    "verified": false,
+    "notes": "Appendix B provides conversion factors from non-SI units to SI units, including thermochemical calorie (4.184 J), slug (14.5939 kg), and thermodynamic temperature offsets."
+  },
+  "nist-hb44": {
+    "type": "standard",
+    "title": "Specifications, Tolerances, and Other Technical Requirements for Weighing and Measuring Devices, NIST Handbook 44, Appendix C",
+    "publisher": "National Institute of Standards and Technology",
+    "url": "https://www.nist.gov/pml/owm/nist-handbook-44-current-edition",
+    "verified": false,
+    "notes": "General tables of US customary units of measurement (acre, US liquid gallon)."
+  },
+  "nist-codata": {
+    "type": "web_page",
+    "title": "CODATA Recommended Values of the Fundamental Physical Constants",
+    "publisher": "National Institute of Standards and Technology",
+    "url": "https://physics.nist.gov/cuu/Constants/",
+    "verified": false,
+    "notes": "Provides the exact post-2019 SI redefinition value for the electronvolt (1 eV = 1.602176634e-19 J)."
+  },
+  "intl-yard-pound-1959": {
+    "type": "standard",
+    "title": "International Yard and Pound Agreement (1959)",
+    "year": 1959,
+    "verified": false,
+    "notes": "Agreement defining 1 international yard = 0.9144 m and 1 avoirdupois pound = 0.45359237 kg exactly, from which inch, foot, mile, and ounce derive."
+  },
+  "convention-calendar": {
+    "type": "convention",
+    "title": "School physics calendar-time conventions",
+    "verified": true,
+    "notes": "Standard classroom convention where 1 day = 86,400 s, 1 month = 30 days (2,592,000 s), and 1 year = 365 days (31,536,000 s). The Julian year (365.25 days = 31,557,600 s) is provided separately."
+  },
+  "iec-80000-13": {
+    "type": "standard",
+    "title": "IEC 80000-13: Quantities and units — Part 13: Information science and technology",
+    "publisher": "International Electrotechnical Commission (IEC)",
+    "year": 2008,
+    "verified": false,
+    "notes": "Defines binary prefixes (kibi, mebi, gibi, tebi) alongside decimal SI prefixes for bytes and bits."
+  }
+}

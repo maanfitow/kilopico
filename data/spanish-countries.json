@@ -1,0 +1,138 @@
+[
+  {
+    "code": "AR",
+    "name": { "es": "Argentina", "en": "Argentina" },
+    "timezones": [
+      "America/Argentina/Buenos_Aires",
+      "America/Argentina/Cordoba",
+      "America/Argentina/Salta",
+      "America/Argentina/Jujuy",
+      "America/Argentina/Tucuman",
+      "America/Argentina/Catamarca",
+      "America/Argentina/La_Rioja",
+      "America/Argentina/San_Juan",
+      "America/Argentina/Mendoza",
+      "America/Argentina/San_Luis",
+      "America/Argentina/Rio_Gallegos",
+      "America/Argentina/Ushuaia"
+    ]
+  },
+  {
+    "code": "BO",
+    "name": { "es": "Bolivia", "en": "Bolivia" },
+    "timezones": ["America/La_Paz"]
+  },
+  {
+    "code": "CL",
+    "name": { "es": "Chile", "en": "Chile" },
+    "timezones": [
+      "America/Santiago",
+      "America/Coyhaique",
+      "America/Punta_Arenas",
+      "Pacific/Easter"
+    ]
+  },
+  {
+    "code": "CO",
+    "name": { "es": "Colombia", "en": "Colombia" },
+    "timezones": ["America/Bogota"]
+  },
+  {
+    "code": "CR",
+    "name": { "es": "Costa Rica", "en": "Costa Rica" },
+    "timezones": ["America/Costa_Rica"]
+  },
+  {
+    "code": "CU",
+    "name": { "es": "Cuba", "en": "Cuba" },
+    "timezones": ["America/Havana"]
+  },
+  {
+    "code": "DO",
+    "name": { "es": "República Dominicana", "en": "Dominican Republic" },
+    "timezones": ["America/Santo_Domingo"]
+  },
+  {
+    "code": "EC",
+    "name": { "es": "Ecuador", "en": "Ecuador" },
+    "timezones": ["America/Guayaquil", "Pacific/Galapagos"]
+  },
+  {
+    "code": "SV",
+    "name": { "es": "El Salvador", "en": "El Salvador" },
+    "timezones": ["America/El_Salvador"]
+  },
+  {
+    "code": "GQ",
+    "name": { "es": "Guinea Ecuatorial", "en": "Equatorial Guinea" },
+    "timezones": ["Africa/Malabo"]
+  },
+  {
+    "code": "GT",
+    "name": { "es": "Guatemala", "en": "Guatemala" },
+    "timezones": ["America/Guatemala"]
+  },
+  {
+    "code": "HN",
+    "name": { "es": "Honduras", "en": "Honduras" },
+    "timezones": ["America/Tegucigalpa"]
+  },
+  {
+    "code": "MX",
+    "name": { "es": "México", "en": "Mexico" },
+    "timezones": [
+      "America/Mexico_City",
+      "America/Cancun",
+      "America/Merida",
+      "America/Monterrey",
+      "America/Matamoros",
+      "America/Chihuahua",
+      "America/Ciudad_Juarez",
+      "America/Ojinaga",
+      "America/Mazatlan",
+      "America/Bahia_Banderas",
+      "America/Hermosillo",
+      "America/Tijuana"
+    ]
+  },
+  {
+    "code": "NI",
+    "name": { "es": "Nicaragua", "en": "Nicaragua" },
+    "timezones": ["America/Managua"]
+  },
+  {
+    "code": "PA",
+    "name": { "es": "Panamá", "en": "Panama" },
+    "timezones": ["America/Panama"]
+  },
+  {
+    "code": "PY",
+    "name": { "es": "Paraguay", "en": "Paraguay" },
+    "timezones": ["America/Asuncion"]
+  },
+  {
+    "code": "PE",
+    "name": { "es": "Perú", "en": "Peru" },
+    "timezones": ["America/Lima"]
+  },
+  {
+    "code": "PR",
+    "name": { "es": "Puerto Rico", "en": "Puerto Rico" },
+    "timezones": ["America/Puerto_Rico"]
+  },
+  {
+    "code": "ES",
+    "name": { "es": "España", "en": "Spain" },
+    "timezones": ["Europe/Madrid", "Africa/Ceuta", "Atlantic/Canary"]
+  },
+  {
+    "code": "UY",
+    "name": { "es": "Uruguay", "en": "Uruguay" },
+    "timezones": ["America/Montevideo"]
+  },
+  {
+    "code": "VE",
+    "name": { "es": "Venezuela", "en": "Venezuela" },
+    "timezones": ["America/Caracas"]
+  }
+]
