@@ -21,6 +21,10 @@
       "switchToLight": "Switch to light theme",
       "switchToDark": "Switch to dark theme"
     },
+    "footer": {
+      "socialLabel": "Social links",
+      "openProfile": "{{network}} — {{handle}} (opens in a new tab)"
+    },
     "calculator": {
       "title": "Unit Converter",
       "quantityLabel": "Quantity",
@@ -201,6 +205,10 @@
     "theme": {
       "switchToLight": "Cambiar a tema claro",
       "switchToDark": "Cambiar a tema oscuro"
+    },
+    "footer": {
+      "socialLabel": "Redes sociales",
+      "openProfile": "{{network}} — {{handle}} (se abre en una pestaña nueva)"
     },
     "calculator": {
       "title": "Conversor de Unidades",

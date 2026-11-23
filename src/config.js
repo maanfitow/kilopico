@@ -2,6 +2,11 @@ export const PROJECT_NAME = 'Kilopico';
 export const PDF_RELEASE_BASE_URL =
   'https://github.com/maanfitow/kilopico/releases/latest/download';
 
+export const SOCIAL_LINKS = {
+  github: 'https://github.com/maanfitow',
+  linkedin: 'https://www.linkedin.com/in/mau-figue/',
+};
+
 export const DEFAULT_PRECISION = 6;
 export const MIN_PRECISION = 1;
 export const MAX_PRECISION = 15;

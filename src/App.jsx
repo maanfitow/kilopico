@@ -6,6 +6,7 @@ import Calculator from './components/Calculator.jsx';
 
 const Theory = lazy(() => import('./components/Theory.jsx'));
 const Downloads = lazy(() => import('./components/Downloads.jsx'));
+const Footer = lazy(() => import('./components/Footer.jsx'));
 
 function AppLayout() {
   const { t } = useI18n();
@@ -27,6 +28,9 @@ function AppLayout() {
           </Routes>
         </Suspense>
       </main>
+      <Suspense fallback={null}>
+        <Footer />
+      </Suspense>
     </div>
   );
 }
