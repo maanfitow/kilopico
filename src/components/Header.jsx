@@ -13,27 +13,16 @@ export default function Header() {
         <div className="brand">
           <svg
             className="brand-mark"
-            width="20"
-            height="20"
-            viewBox="0 0 20 20"
+            width="22"
+            height="22"
+            viewBox="0 0 200 200"
             fill="none"
             aria-hidden="true"
           >
-            <rect
-              x="1.5"
-              y="1.5"
-              width="17"
-              height="17"
-              rx="5"
-              stroke="currentColor"
-              strokeWidth="1.6"
-            />
             <path
-              d="M5.5 7.5h8.5m0 0-2.2-2.2M14 7.5l-2.2 2.2M14.5 12.5H6m0 0 2.2-2.2M6 12.5l2.2 2.2"
-              stroke="currentColor"
-              strokeWidth="1.5"
-              strokeLinecap="round"
-              strokeLinejoin="round"
+              fill="currentColor"
+              fillRule="evenodd"
+              d="M100 0a100 100 0 1 0 0 200 100 100 0 1 0 0-200ZM46.2 57.4L58.5 53.6L103.8 159.8L92.2 166.0ZM101.3 40.6L115.6 36.1L106.1 72.1L133.4 81.8L126.9 109.7L166.5 124.7L152.2 132.9L88.4 110.1Q83.2 108.2 84.9 101.3ZM102.8 84.7L119.4 89.5L114.7 105.7L98.2 100.9Z"
             />
           </svg>
           <span className="brand-name">{PROJECT_NAME}</span>
